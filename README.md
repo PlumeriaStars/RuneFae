@@ -1,6 +1,11 @@
 # RuneFae
 
-## A 2D Unity game demo including both a playable level and boss fight!
+### A 2D Rogue-Like Game Demo
+
+Explore a large level and defeat enemies in close-quarters with your strong melee slashes or stay safe and slowly whittle them down with ranged spells. Using the spirits dropped by enemies, head to a shop to improve you stats or even gain new powers. Not all shops are the same as some have stronger upgrades so keep an eye out for them. If you think you're strong enough, make your way to the teleporter hidden randomly around the map and face off against the boss!
+<br /> <br /> <br />
+
+<ins>Background Information </ins>
 
 This project was created as my Senior Design Project. I wanted to do something that would allow me to both create code and art assets, and so this game demo came to be. Specifically, I created all the character, enemy, and boss sprites as well as wrote all the scripts. Other assets came from the Unity Asset Store and are linked at the bottom of the README. The game can be played from start to end despite the many bugs. For the most part, the initial commit of this project reflects the version of the game that was submitted in my final university semester. Recently, I have fixed some of the more obvious issues such as camera and sound issues in the boss level that prevented the player from beating the game in this updated version of the game.
 
