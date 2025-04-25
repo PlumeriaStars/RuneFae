@@ -27,5 +27,6 @@ __This demo has not been extremely tested and other miscellaneous issues can occ
     - [FREE PLATFORMER GAME TILESET](https://www.gameart2d.com/free-platformer-game-tileset.html) from Game Art 2D
 
 <ins>To-Do List </ins>
-    - Add images to README
-    - Work on known issues
+
+- Add images to README
+- Work on known issues
